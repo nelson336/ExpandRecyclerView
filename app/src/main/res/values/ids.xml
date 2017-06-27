@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="fastadapter_item" />
+    <item type="id" name="fastadapter_item_adapter" />
+
+    <item name="expand_adpter_item_id" type="id" />
+    <item name="expand_adapter_header_id" type="id" />
+    <item name="adapter_item_id" type="id" />
+</resources>
